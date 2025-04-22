@@ -60,10 +60,6 @@ https://yourdomain.com/feed/podcast
 
 You can submit this URL to podcast platforms like Apple Podcasts, Spotify, etc.
 
-## ✅ Validation
-
-This feed passes [Cast Feed Validator](https://castfeedvalidator.com/) and conforms to Apple Podcast RSS specifications.
-
 ## 💡 Notes
 
 - Make sure your posts are categorized as `podcast`.
